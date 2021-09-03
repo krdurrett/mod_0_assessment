@@ -1,0 +1,10 @@
+var movie = "Say Anything";
+var isEntertaining = true;
+movie = "The Sandlot";
+var num4 = 10;
+var num6 = 5;
+var product = (num6 * num4);
+var favoriteFoods = ["tacos", "pizza", "cookies"];
+favoriteFoods.shift();
+var movieLength = movie.length;
+console.log (movieLength);
